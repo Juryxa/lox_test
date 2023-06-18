@@ -3,31 +3,31 @@
 function showResultsLox1(){
   clearPage();
   headerContainer.innerHTML = `<h2 class="title">Лох ебаный</h2>`;
-  submitBtn.innerHTML = `<a class="quiz-submit submit" href="index.html">Заново</a>`
+  submitBtn.innerHTML = `<a class="quiz-submit submit" href="../index.html">Заново</a>`
   document.body.style.backgroundImage = "url('lox.jpg')";
 }
 function showResultsLox2(){
   clearPage();
   headerContainer.innerHTML = `<h2 class="title">Ебать ты лох</h2>`;
-  submitBtn.innerHTML = `<a class="quiz-submit submit" href="index.html">Заново</a>`
+  submitBtn.innerHTML = `<a class="quiz-submit submit" href="../index.html">Заново</a>`
   document.body.style.backgroundImage = "url('lox.jpg')";
 }
 function showResultsPidoraAnswer(){
   clearPage();
   headerContainer.innerHTML = `<h2 class="title">Пидора ответ</h2>`;
-  submitBtn.innerHTML = `<a class="quiz-submit submit" href="index.html">Заново</a>`
+  submitBtn.innerHTML = `<a class="quiz-submit submit" href="../index.html">Заново</a>`
   document.body.style.backgroundImage = "url('lox.jpg')";
 }
 function showResultsPizda(){
   clearPage();
   headerContainer.innerHTML = `<h2 class="title">Пизда. Готовь очко</h2>`;
-  submitBtn.innerHTML = `<a class="quiz-submit submit" href="index.html">Заново</a>`
+  submitBtn.innerHTML = `<a class="quiz-submit submit" href="../index.html">Заново</a>`
   document.body.style.backgroundImage = "url('lox.jpg')";
 }
 function showResultsNice(){
   clearPage();
   headerContainer.innerHTML = `<h2 class="title">Красава</h2>`;
-  submitBtn.innerHTML = `<a class="quiz-submit submit" href="index.html">Заново</a>`
+  submitBtn.innerHTML = `<a class="quiz-submit submit" href="../index.html">Заново</a>`
 }
 
 const questions = [
